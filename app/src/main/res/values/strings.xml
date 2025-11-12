@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SMBridge</string>
+    <string name="open_with">Abrir con...</string>
+    <string name="empty_folder">Esta carpeta está vacía</string>
+    <string name="access_network">Accede a tu red</string>
+    <string name="host_ip">Host / IP</string>
+    <string name="shared">Recurso compartido</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="connect">Conectar</string>
+    <string name="connect_error">Error: se produjo un error al intentar conectarse al servidor</string>
+    <string name="new_folder">Nueva carpeta</string>
+    <string name="create_folder">Crear carpeta</string>
+    <string name="cancel">Cancelar</string>
+    <string name="rename">Renombrar</string>
+    <string name="new_name">Nuevo nombre</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="text_confirm_delete_dialo">¿Seguro que deseas eliminar este</string>
+    <string name="directory_lower_case">directorio</string>
+    <string name="file_lower_case">archivo</string>
+    <string name="download">Descargar</string>
+    <string name="more_options">Más opciones</string>
+    <string name="upload_file">Subir archivo</string>
+    <string name="fab_menu">Menú</string>
+    <string name="back">Volver</string>
+    <string name="timeout">Tiempo de espera agotado (10s).</string>
+</resources>
